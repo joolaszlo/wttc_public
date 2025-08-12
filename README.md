@@ -1,2 +1,13 @@
-# wttc_public
-it's me, mario!
+# War Thunder Text Changer
+
+This is a little side project I’ve been working on for War Thunder players. The idea is simple: you can edit some of the in-game messages to say whatever you want. For example, you could replace the standard "Target destroyed" with something a bit more fun, like "Dopamine Shot".
+
+It’s not a finished application yet (i’m a beginner and more experienced in Java – this one’s in Python), but it’s working. 🫡
+
+If you play War Thunder, have some Python skills, and feel like contributing to development, I’d be happy to team up (and make the project open-source).
+
+If you have any fun ideas for features, or if you spot a bug, please let me know.
+
+📨 You can message me on Reddit: [u/joolaszloo](https://www.reddit.com/user/joolaszloo/)
+
+wttc_public
