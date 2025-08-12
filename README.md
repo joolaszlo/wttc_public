@@ -1,6 +1,7 @@
 # War Thunder Text Changer
 
 This is a little side project I’ve been working on for War Thunder players. The idea is simple: you can edit some of the in-game messages to say whatever you want. For example, you could replace the standard "Target destroyed" with something a bit more fun, like "Dopamine Shot".
+The program contains a few useful links related to War Thunder.
 
 It’s not a finished application yet (i’m a beginner and more experienced in Java – this one’s in Python), but it’s working. 🫡
 
