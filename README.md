@@ -15,6 +15,8 @@ If you have any fun ideas for features, or if you spot a bug, please let me know
 
 Its easy to use, but here is a video: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XEzqBZrcH_o/0.jpg)](https://www.youtube.com/watch?v=XEzqBZrcH_o)
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/KcJVNWhR/war-thunder-wttc.jpg)](https://www.youtube.com/watch?v=XEzqBZrcH_o)
+
+[https://www.youtube.com/watch?v=XEzqBZrcH_o](https://www.youtube.com/watch?v=XEzqBZrcH_o)
 
 wttc_public
